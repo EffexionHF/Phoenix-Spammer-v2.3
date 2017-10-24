@@ -1,0 +1,11 @@
+C:\Users\Effexion\source\repos\Phoenix Spammer  v2.3\Phoenix Spammer  v2.3\bin\Debug\Phoenix Spammer  v2.3.exe.config
+C:\Users\Effexion\source\repos\Phoenix Spammer  v2.3\Phoenix Spammer  v2.3\bin\Debug\Phoenix Spammer  v2.3.exe
+C:\Users\Effexion\source\repos\Phoenix Spammer  v2.3\Phoenix Spammer  v2.3\bin\Debug\Phoenix Spammer  v2.3.pdb
+C:\Users\Effexion\source\repos\Phoenix Spammer  v2.3\Phoenix Spammer  v2.3\bin\Debug\Phoenix Spammer  v2.3.xml
+C:\Users\Effexion\source\repos\Phoenix Spammer  v2.3\Phoenix Spammer  v2.3\obj\Debug\Phoenix_Spammer__v2._3.Form1.resources
+C:\Users\Effexion\source\repos\Phoenix Spammer  v2.3\Phoenix Spammer  v2.3\obj\Debug\Phoenix_Spammer__v2._3.Resources.resources
+C:\Users\Effexion\source\repos\Phoenix Spammer  v2.3\Phoenix Spammer  v2.3\obj\Debug\Stealthy Cat Spammer.vbproj.GenerateResource.Cache
+C:\Users\Effexion\source\repos\Phoenix Spammer  v2.3\Phoenix Spammer  v2.3\obj\Debug\Stealthy Cat Spammer.vbproj.CoreCompileInputs.cache
+C:\Users\Effexion\source\repos\Phoenix Spammer  v2.3\Phoenix Spammer  v2.3\obj\Debug\Phoenix Spammer  v2.3.exe
+C:\Users\Effexion\source\repos\Phoenix Spammer  v2.3\Phoenix Spammer  v2.3\obj\Debug\Phoenix Spammer  v2.3.xml
+C:\Users\Effexion\source\repos\Phoenix Spammer  v2.3\Phoenix Spammer  v2.3\obj\Debug\Phoenix Spammer  v2.3.pdb
